@@ -1,0 +1,25 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Setup 'altera_reserved_tck'
+Slack : 40.940
+TNS   : 0.000
+
+Type  : Hold 'altera_reserved_tck'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Recovery 'altera_reserved_tck'
+Slack : 46.601
+TNS   : 0.000
+
+Type  : Removal 'altera_reserved_tck'
+Slack : 0.968
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'altera_reserved_tck'
+Slack : 49.510
+TNS   : 0.000
+
+------------------------------------------------------------
